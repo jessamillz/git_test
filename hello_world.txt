@@ -1,0 +1,2 @@
+Hello! I am adding some text in order to pracice staging and 
+committing files with git.
